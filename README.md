@@ -2,10 +2,11 @@
 
 ### Live Preview
 * Server sleeps, so just give it a second
+<br>
 [Click here](https://vue-mock-energycompany.herokuapp.com/)
 
-### Optimization Test Score
-[GTMetrix Score](https://gtmetrix.com/reports/vue-mock-energycompany.herokuapp.com/TCiNZNIo)
+### Optimization Test Score (via GTMetrix)
+[Click here](https://gtmetrix.com/reports/vue-mock-energycompany.herokuapp.com/TCiNZNIo)
 
 ### Install instructions:
 ```sh
