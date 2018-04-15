@@ -1,4 +1,4 @@
-# Vue + ES6 / Webpack / Express4
+# Better Energy Mockup
 
 ### Install instructions:
 ```sh
