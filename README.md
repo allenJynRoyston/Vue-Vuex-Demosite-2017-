@@ -19,9 +19,3 @@ $ gulp build
 // this will present the final version of the site
 $ gulp
 ```
-
-### Deployment instructions (if using Heroku):
-```sh
-$ gulp build
-$ git push heroku master
-```
