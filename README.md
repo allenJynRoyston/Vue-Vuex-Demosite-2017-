@@ -1,6 +1,6 @@
 # Better Energy Mockup
 
-### Live Preview
+### Live Preview (server sleeps, so just give it a second)
 [Click here](https://vue-mock-energycompany.herokuapp.com/)
 
 ### Optimization Test Score (via GTMetrix)
