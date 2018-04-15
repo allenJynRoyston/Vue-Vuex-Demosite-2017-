@@ -1,0 +1,121 @@
+@import '../../../node_modules/semantic-ui/dist/semantic.min.css';
+
+body{
+  background-color: #eff4ca;
+}
+
+h1{
+  color: white
+}
+
+h2{
+  color: white;
+  font-weight: bold;
+}
+
+h3 {
+  font-size: 18px;
+  color: #004f90;
+  font-weight: bold
+}
+
+h4 {
+  font-size: 18px;
+  color: #004f90;
+  font-weight: normal
+}
+
+p{
+  color: gray
+}
+
+#app{
+  font-family: 'Avenir', Helvetica, Arial, sans-serif;
+  margin-top: 40px
+}
+
+
+.float--right{
+  float: right
+}
+
+.full-width{
+  width: 100%
+}
+
+.site--green{
+  background-color: #b9cd14
+}
+
+.site--blue{
+  background-color: #3d6fa9
+}
+
+
+
+.site--gradient--yellow-to-green {
+    background: linear-gradient(#e5eeab, #c6d63d);
+}
+
+.site--gradient--blue-to-darkblue {
+    background: linear-gradient(#7c9ec8, #003e7f);
+}
+
+.site--green-outline{
+  border: 2px solid #c6d63d
+}
+
+.outline{
+  border: 1px solid red
+}
+
+
+.rounded-corners{
+  border-radius: 5px
+}
+
+.rounded-corners-top{
+  border-radius: 5px 5px 0px 0px
+}
+
+.rounded-corners-bottom{
+  border-radius: 0px 0px 5px 5px
+}
+
+.margin-top--plus-5{
+  margin-top: 5px
+}
+
+.margin-top--minus-5{
+  margin-top: -5px
+}
+
+.text--align-right{
+  align: right
+}
+
+
+/* CUSTOM BUTTON */
+.custom-button{
+  background: linear-gradient(#7c9ec8, #003e7f);
+  border-radius: 35px;
+  width: 125px;
+  padding: 0px 5px 0px 5px;
+  color: white
+}
+
+.custom-button img{
+  margin-top: 5px;
+  margin-right: 10px;
+  cursor: pointer;
+}
+
+.custom-button span{
+  position: relative;
+  bottom: 4px;
+  font-size: 18px;
+}
+
+.custom-button:hover span{
+  text-decoration: underline;
+}
